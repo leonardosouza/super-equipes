@@ -6,9 +6,9 @@ Nesse texto vamos destacar quais são as atuais super-equipes com revista própr
 
 ## Vingadores
 
-1 - Blade
-2 - Capitão América
-3 - Homem de Ferro
+1 - [Blade](vingadores/blade.md)
+2 - [Capitão América](vingadores/capitao-america.md)
+3 - [Homem de Ferro](vingadores/homem-de-ferro.md)
 
 ## Xmen
 
