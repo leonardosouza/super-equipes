@@ -12,6 +12,6 @@ Nesse texto vamos destacar quais são as atuais super-equipes com revista própr
 
 ## Xmen
 
-1 - Ciclope
-2 - Vampira
-3 - Wolverine
+1 - [Ciclope](xmen/ciclope.md)
+2 - [Vampira](xmen/vampira.md)
+3 - [Wolverine](xmen/wolverine.md)
